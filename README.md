@@ -77,10 +77,19 @@ cd MyNewProject/Commands
 This will create the following files:
 
 ```
-MyNewProject/Classes/  
-├── MyClass/  
-    ├── MyClass.h  
-    └── MyClass.cpp
+MyNewProject/  
+├── Main/  
+│   └── main.cpp  
+├── Classes/
+│   ├── MyClass/  
+│       ├── MyClass.h  
+│       └── MyClass.cpp
+├── Commands/  
+│   ├── make.sh  
+│   └── newClass.sh  
+└── Declarations/  
+    ├── declarations.h  
+    └── declarations.cpp
 ```
 
 ### 3. Compile and run the project

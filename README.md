@@ -79,8 +79,8 @@ This will create the following files:
 ```
 MyNewProject/Classes/  
 ├── MyClass/  
-│   ├── MyClass.h  
-│   └── MyClass.cpp
+    ├── MyClass.h  
+    └── MyClass.cpp
 ```
 
 ### 3. Compile and run the project

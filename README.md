@@ -1,6 +1,6 @@
 # make++
 
-`make++` is a Bash script designed to streamline the creation of a basic C++ project structure on UNIX system. 
+`make++` is a Bash script designed to streamline the creation of a basic C++ project structure on LINUX system. 
 It automatically sets up directories and files needed for a simple C++ project, 
 including a `main.cpp`, a header file, and scripts for adding new classes and compiling the project.
 
